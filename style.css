@@ -1,0 +1,145 @@
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+
+}
+.body{
+    overflow-y: hidden;
+}
+
+.end{
+    margin-left: 155px;
+    margin-top: 50px;
+}
+.cad{
+    width: 15px;
+}
+.nav{
+    display: flex;
+    /* position: relative;
+    bottom: 20px; */
+    margin-left: 70px;
+    padding-left: 10px;
+    gap: 25px;
+    font-size: 12px;
+    margin-bottom: 60px;
+}
+.lp{
+    display: flex;
+    margin-left: 1020px;
+    margin-bottom: -20px;
+}
+#carouselExampleAutoplaying{
+    margin-left: 130px;
+    width: 80%;
+}
+.ma{
+    display: flex;
+    margin-left: 190px;
+
+}
+.test1{
+    font-size:15px ;
+    text-decoration: none;
+    color: black;
+}
+
+.bt{
+    display: flex;
+    margin-left: 120px;
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+}
+.bas{
+    margin-left: 120px;
+}
+.test2{
+    text-decoration: none;
+    color: black;
+}
+.test3{
+    font-size: 15px;
+}
+.haut{
+    position: relative;
+    margin-left: 400px;
+    font-weight: 900;
+    bottom: 300px; 
+}
+.test4{
+    color: black;
+    text-decoration: none;
+}
+.carte{
+    position: relative;
+   margin-left: 690px;
+   bottom: 520px;
+}
+.ca{
+    background-color:  rgb(236, 234, 234);
+}
+.contenair_input{
+    position: relative;
+    background-color: rgb(236, 234, 234);
+    width: 520px;
+    height: 270px;
+    bottom: 400px;
+    margin-left: 120px;
+}
+.input{
+    width: 75px;
+}
+.vers{
+  position: relative; 
+  bottom:670px ; 
+  margin-left: 690px;
+  
+}
+.droite{
+    position: relative;
+    bottom: 935px;
+    margin-left: 950px;
+    width: 255px;
+}
+.contenair_input1{
+    position: relative;
+    background-color: black;
+    width: 100%;
+    height: 350px;
+    bottom: 740px;   
+}
+.nk{
+    display: flex;
+    margin-left: 120px;
+    font-size: 12px;
+}
+.v{
+    position: relative;
+    bottom: 1090px;
+    left: 950px;
+}
+.dr{
+    position: relative;
+    bottom: 1000px;
+    left: 120px;
+}
+.FR{
+    flex-direction: row;
+    position: relative;
+    bottom: 900px;
+    left: 150px;
+    word-spacing: 20px;
+}
+.button{
+    position: relative;
+    bottom: 1050px;
+    left: 950px;
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    color: black;
+    
+}
+
